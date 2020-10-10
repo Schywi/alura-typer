@@ -1,2 +1,6 @@
 # alura-typer
 Alura Typer is a project developed during the course "jQuery: Master the most popular library on the market part 1 and 2" at Alura, where we built a Typing game with Jquery.
+
+## Installing dependencies
+Please execute in terminal the commands below:
+`npm install`
